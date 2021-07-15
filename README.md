@@ -6,9 +6,6 @@
 </p>
 
 
- <img src=https://github.com/hbiom/kpi_boxes/img_readme/full_screen.jpg>
-  <img src=https://github.com/hbiom/kpi_boxes/img_readme/cell_phone.jpg>
-
 
 ## Repository
 
