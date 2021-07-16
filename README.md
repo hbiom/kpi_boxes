@@ -3,10 +3,9 @@
 
 Hello, for a personal project, I wanted to code a section displaying the main KPI (number client, client satisfaction ...) on my landing page.
 This is very common in a lot of website to quickly show achievment to potential new client visiting the website. We will refered that as KPI boxes
-in this articles.
+in this repo.
 
 Yet, I found a lot of a repository coding complex KPI dashboard to monitor website impact, but not simple KPI boxes as I wanted, so I decided to do it here!
-
 
 
 <p align="center">
@@ -29,12 +28,12 @@ kpi_boxes
 
 ***Technologies :*** HTML, CSS/SCSS, JS
 
-## scss to compiled css
+
+###scss to compiled css
 
 Following your setup enviromnent, you can compitle scss to css with :
 
 `sass --watch style.scss:style.css`
-
 
 Medium article with further detail can be found Here
 
