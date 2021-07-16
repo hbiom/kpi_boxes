@@ -29,7 +29,7 @@ kpi_boxes
 ***Technologies :*** HTML, CSS/SCSS, JS
 
 
-###scss to compiled css
+### scss to compiled css
 
 Following your setup enviromnent, you can compitle scss to css with :
 
