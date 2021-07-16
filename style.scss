@@ -2,11 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
-  span {
-    margin-top: 10px;
-  }
-
 }
 
 .kpi-section {
@@ -58,7 +53,6 @@
   font-size: 18px;
   color: grey;
 }
-
 
 hr {
   width: 40%;
