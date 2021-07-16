@@ -32,7 +32,7 @@ kpi_boxes
 
 ### scss to compiled css
 
-Following your setup enviromnent, you can compitle scss to css with :
+Following your setup enviromnent, you can compile scss to css with :
 
 `sass --watch style.scss:style.css`
 
