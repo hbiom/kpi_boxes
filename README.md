@@ -13,8 +13,8 @@ so I decided to do it here!
   <img src=https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.jpg>
 </p>
 
-Of course, you can customize CSS property as much as you like depending on your website design, creativity and probably because you have better design skills
-than mine.
+Of course, you can customize CSS property as much as you like depending on your website design, creativity and probably
+because you have probably better design skills than mine.
 
 ## Repository
 
