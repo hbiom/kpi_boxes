@@ -4,6 +4,9 @@
 For a personal project, I wanted to code a section displaying the main KPI (number of clients, client satisfaction …) on my landing page. This is very common in a lot of websites to quickly show achievements to potential new clients visiting the page. We will refer to that as KPI boxes in this article.
 
 Yet, I found a lot of repository coding complex KPI dashboards to monitor website impact with graphs, but not for simple KPI boxes as I wanted, so I decided to do it here!
+
+https://github.com/hbiom/kpi_boxes/blob/main/img_readme/demo_kpi.webm
+
 <p align="center">
   <img src=https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.jpg>
 </p>
