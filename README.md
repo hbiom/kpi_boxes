@@ -7,6 +7,12 @@ Yet, I found a lot of repository coding complex KPI dashboards to monitor websit
 
 [![](https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.jpg)](https://github.com/hbiom/kpi_boxes/blob/main/img_readme/demo_kpi.webm)
 
+
+<p align="center">
+  <video src=https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.jpg>
+</p>
+
+
 Of course, you can customize CSS properties as much as you like depending on your website design, creativity and probably
 because you might have better design skills than mine.
 
