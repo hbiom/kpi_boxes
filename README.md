@@ -5,15 +5,7 @@ For a personal project, I wanted to code a section displaying the main KPI (numb
 
 Yet, I found a lot of repository coding complex KPI dashboards to monitor website impact with graphs, but not for simple KPI boxes as I wanted, so I decided to do it here!
 
-[![](https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.jpg)](https://github.com/hbiom/kpi_boxes/blob/main/img_readme/demo_kpi.mp4)
-
-https://github.com/hbiom/kpi_boxes/blob/main/img_readme/demo_kpi.mp4
-
-
-<p align="center">
-  <video src=https://github.com/hbiom/kpi_boxes/blob/main/img_readme/full_screen.mp4>
-</p>
-
+![caption](https://github.com/hbiom/kpi_boxes/blob/main/img_readme/demo_kpi.gif)
 
 Of course, you can customize CSS properties as much as you like depending on your website design, creativity and probably
 because you might have better design skills than mine.
